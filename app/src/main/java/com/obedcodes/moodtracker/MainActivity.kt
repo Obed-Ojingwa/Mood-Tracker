@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// C:\Users\CHINAZA\AndroidStudioProjects\MoodTracker\app\build\outputs\apk\debug
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
